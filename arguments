@@ -11,3 +11,4 @@ echo "Before calling function, checking name: $1"
 echo "Number of args: $#"
 echo "All args are: $@"
 Hello $1
+echo "I am venkatesh"
